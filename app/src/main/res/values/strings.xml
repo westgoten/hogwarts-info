@@ -1,11 +1,12 @@
 <resources>
-    <string name="app_name">Hogwarts</string>
+    <string name="app_name">Hogwarts Info</string>
     <string name="full_name">Hogwarts School of Witchcraft and Wizardry</string>
     <string name="address">Hogwarts Castle, Highlands, Scotland, Great Britain</string>
     <string name="description_title">Description</string>
     <string name="description_text">Established around the 10th century,
         Hogwarts is considered to be one of the finest magical institutions
-        in the wizarding world.\n\nThe school\'s motto is Draco
-        Dormiens Nunquam Titillandus (Draco Dormiens Nvnqvam Titillandvs),
-        which, translated from Latin, means \"Never tickle a sleeping dragon\".</string>
+        in the wizarding world.\n\nThe school\'s motto is <i>Draco
+        Dormiens Nunquam Titillandus</i>, which, translated from Latin,
+        means \"Never tickle a sleeping dragon\".</string>
+    <string name="mail_link"><a href="http://harrypotter.wikia.com/wiki/Owl_Postal_Service">Owl Post</a></string>
 </resources>
